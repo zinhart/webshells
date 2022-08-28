@@ -1,0 +1,3 @@
+[submodule "wwwolf-php-webshell"]
+	path = wwwolf-php-webshell
+	url = https://github.com/zinhart/wwwolf-php-webshell.git
